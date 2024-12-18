@@ -1,4 +1,4 @@
-# Pill Me In Repository (스타트)
+# Pill Me In Repository (스타트 32팀 홈런볼)
 
 개인 맞춤형 영양제 추천 시스템(RAG 기반 LLM):<br>https://github.com/pillmein/Recommendation.git
 
